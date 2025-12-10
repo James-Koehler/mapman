@@ -1,2 +1,11 @@
 # mapmaker
-A tool I'm writing to generate litematica schematic files to generate map art from an imported image.
+A mod I'm working on to allow for easy map art creation. Right now it is targetting fabric, but I hope to expand support to Neoforge as well eventually.
+
+## Roadmap
+[ ] - Import images and convert them to valid map dimensions and colors
+[ ] - Generate map files from images
+[ ] - Configurable gamerules and permissions for creating map files
+[ ] - Schematic system for building the maps without cheating in a map item
+[ ] - UI to manage schematics / maps
+[ ] - Support for converting schematics to litematica schematics
+[ ] - Neoforge support
