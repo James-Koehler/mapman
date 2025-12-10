@@ -1,4 +1,4 @@
-# mapmaker
+# mapman
 A mod I'm working on to allow for easy map art creation. Right now it is targetting fabric, but I hope to expand support to Neoforge as well eventually.
 
 ## Dependencies
